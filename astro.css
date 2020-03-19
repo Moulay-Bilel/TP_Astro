@@ -1,0 +1,47 @@
+h1
+{
+    background-color : rgb(161, 196, 241);
+    border: 1px solid black;
+    border-radius:20px 20px 0px 0px;
+    color : white;
+    width: 80%;
+    text-align : center;
+
+}
+
+body
+{
+    text-align: center;
+    margin-left: 20%;
+}
+section
+{
+ background-color : rgb(236, 229, 215);
+ border : 1px solid black;
+ border-radius: 10px;
+ color : gray;
+ width: 80%;
+ height: 70%;
+}
+h4
+{
+ text-align : center;
+}
+
+p
+{
+    color : black;
+}
+
+body
+{
+    background-color :rgb(236, 229, 215);
+}
+
+#message
+{
+ 
+ width: 40%;
+
+ 
+}
